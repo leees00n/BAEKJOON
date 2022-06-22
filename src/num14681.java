@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class num24681 {
+public class num14681 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
                 int numx = in.nextInt();
