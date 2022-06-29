@@ -14,6 +14,7 @@ public class num2588 {
         System.out.println(a * (b.charAt(0)-'0'));
         System.out.println(a + Integer.parseInt(b));
 
-
     }
 }
+
+
