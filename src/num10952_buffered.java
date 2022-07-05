@@ -18,6 +18,7 @@ public class num10952_buffered {
             sb.append(a + b).append("\n");
         }
         System.out.println(sb);
+
     }
     }
 
